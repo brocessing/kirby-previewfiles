@@ -25,6 +25,9 @@ Simply use the built-in **Kirby Package Manager** by running:
 
 ```sh
 $ npm run kirby:add
+$ [?] Git URL: https://github.com/brocessing/kirby-previewfiles
+$ [?] Module name: previewfiles
+$ [?] Category: fields
 ```
 
 ### 2. Kirby CLI
