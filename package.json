@@ -1,0 +1,12 @@
+{
+   "name": "previewfiles",
+   "description": "Kirby field to enable file thumbnail preview in the panel sidebar",
+   "author": "Brocessing <https://github.com/brocessing>",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/brocessing/kirby-previewfiles"
+   },
+   "version": "0.1.0",
+   "type": "kirby-field",
+   "license": "MIT"
+}
