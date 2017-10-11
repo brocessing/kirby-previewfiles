@@ -39,7 +39,7 @@ $ kirby plugin:install brocessing/kirby-previewfiles
 ### 3. Clone or download
 
 1. [Clone](https://github.com/brocessing/kirby-previewfiles.git) or [download](https://github.com/brocessing/kirby-previewfiles/archive/master.zip) this repository.
-2. Unzip the archive if needed and rename the folder to `kirby-previewfiles`.
+2. Unzip the archive if needed and rename the folder to `previewfiles`.
 
 **Make sure that the plugin folder structure looks like this:**
 
