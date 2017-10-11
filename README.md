@@ -9,7 +9,7 @@
     <br>
     <br>
     <br>
-    <img alt="preview" src="preview.gif">
+    <img alt="preview" src="https://github.com/brocessing/kirby-previewfiles/blob/assets/preview.gif?raw=true">
 </div>
 
 <br>
