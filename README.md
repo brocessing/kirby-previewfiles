@@ -63,7 +63,7 @@ $ git submodule add https://github.com/brocessing/kirby-previewfiles site/plugin
 
 ### Blueprint
 
-To enable file preview for a given page, at the following code to its blueprint: 
+To enable file preview for a given page, add the following code to its blueprint: 
 
 ```yaml
 fields:
