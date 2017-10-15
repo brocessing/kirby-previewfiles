@@ -56,7 +56,7 @@ If you know your way around Git, you can download this plugin as a submodule:
 
 ```sh
 $ cd path/to/kirby
-$ git submodule add https://github.com/brocessing/kirby-previewfiles site/plugins/kirby-previewfiles
+$ git submodule add https://github.com/brocessing/kirby-previewfiles site/fields/kirby-previewfiles
 ```
 
 ## Setup
