@@ -9,7 +9,7 @@
   function preview () {
     if (!api.ready) return
     var items = document.querySelectorAll('ul.sidebar-list li .draggable-file .icon.fa')
-    console.log(items)
+    // console.log(items)
     if (items.length <= 0) return
     for (var i = 0; i < items.length; i++) {
       var $item = items[i]
@@ -81,7 +81,7 @@
     $main = document.querySelector('.main')
     $mainbar = document.querySelector('.mainbar')
     interval = window.setInterval(checkPresence, 500)
-    console.log('initialized')
+    // console.log('initialized')
   }
 
   function destroy () {
@@ -89,7 +89,7 @@
     $main = $mainbar = interval = null
     window.removeEventListener('popstate', destroy)
     api.ready = false
-    console.log('destroyed')
+    // console.log('destroyed')
   }
 
   function checkPresence () {
