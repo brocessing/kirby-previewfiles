@@ -95,4 +95,4 @@
   function checkPresence () {
     if (api.ready && !$main.contains($mainbar)) return destroy()
   }
-})()
+})();
